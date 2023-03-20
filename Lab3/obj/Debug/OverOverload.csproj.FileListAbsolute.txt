@@ -1,0 +1,8 @@
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\bin\Debug\Lab2.exe.config
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\bin\Debug\Lab2.exe
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\bin\Debug\Lab2.pdb
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\obj\Debug\OverOverload.csproj.AssemblyReference.cache
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\obj\Debug\OverOverload.csproj.SuggestedBindingRedirects.cache
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\obj\Debug\OverOverload.csproj.CoreCompileInputs.cache
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\obj\Debug\Lab2.exe
+E:\temp\ПРОГИ VS\OOOOO\Labs-master\Lab3\obj\Debug\Lab2.pdb
